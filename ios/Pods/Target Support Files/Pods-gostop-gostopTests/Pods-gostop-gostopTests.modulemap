@@ -1,0 +1,6 @@
+module Pods_gostop_gostopTests {
+  umbrella header "Pods-gostop-gostopTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
