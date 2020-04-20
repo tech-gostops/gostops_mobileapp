@@ -339,4 +339,6 @@ temp/
 # Ignore all local history of files
 .history
 
-# End of https://www.gitignore.io/api/sass,macos,reactnative,visualstudiocode
+# End of https://www.gitignore.io/api/sass,macos,reactnative,visualstudiocodehook-config.json
+sdhook-*.log
+hook-config.json
